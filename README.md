@@ -7,7 +7,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
     
 ---
 
-## Statistik GitHub Saya
+## 📊 Statistik GitHub Saya
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=riok12&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="riok12's GitHub Stats" />
@@ -22,7 +22,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ---
 
-## Keahlian & Teknologi
+## 🛠️ Keahlian & Teknologi
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,go,php,html,css,js,mysql,docker,kubernetes" />
@@ -30,7 +30,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ---
 
-## Hubungi Saya
+## 🌐 Hubungi Saya
 
 <p align="center">
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/LINK_ANDA)
@@ -40,7 +40,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ---
 
-<h2> Aktivitas Kontribusi Saya</h2>
+<h2>🐍 Aktivitas Kontribusi Saya</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg" alt="github-snake" />
 </div>
