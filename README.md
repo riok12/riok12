@@ -6,7 +6,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 <p>
   <a href="https://v1.pinimg.com/videos/mc/720p/f8/c1/24/f8c124c41c3adf10267c8aa7691e57ca.mp4">
     <img src="https://i.pinimg.com/1200x/d6/fb/2f/d6fb2fe7ff271cf631269dd5f58ee41b.jpg"
-         alt="Thumbnail Video" width="720" />
+         alt="Thumbnail Video" width="20" />
   </a>
 </p>
 
