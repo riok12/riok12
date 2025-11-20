@@ -6,9 +6,6 @@ Back-end Developer | Java Spring Boot, GO, PHP
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/211756209-411a5f6e-f1b4-4b91-9f92-2d4f7dc4e109.gif" alt="Pikachu Coding" width="300" height="200"/>
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/211756209-411a5f6e-f1b4-4b91-9f92-2d4f7dc4e109.gif" alt="Pikachu Coding" width="300" height="200"/>
-</p>
 
 ---
 </div>
@@ -25,7 +22,7 @@ Back-end Developer | Java Spring Boot, GO, PHP
 
 ---
 
-## 🛠️ Keahlian & Teknologi
+## Keahlian & Teknologi
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,go,php,html,css,js,mysql,docker,kubernetes" />
@@ -40,9 +37,11 @@ Back-end Developer | Java Spring Boot, GO, PHP
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/DISCORD_HANDLE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LINK_ANDA)
 
-</div>
+---
 
-<div align="center">
-  <h2>🐍 Aktivitas Kontribusi Saya</h2>
-  <img src="https://github.com/riok12/output/blob/main/github-snake.svg" alt="GitHub Snake" />
+<h2>🐍 Aktivitas Kontribusi Saya</h2>
+<img src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg" alt="GitHub Snake" />
+<br/>
+<br/>
+
 </div>
