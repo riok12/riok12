@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdlYndyNHd6NWhzNHM3OHM1aG53bW8xY2NlOHZ0OGx0b3J4cWw0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFADsE00fL9rG492n4/giphy.gif" alt="Pikachu Coding" width="600"/>
+<img src="https://user-images.githubusercontent.com/73256075/144677983-0974464f-409e-4a69-90d2-996ff4d32f14.gif" alt="Pikachu Coding" width="600"/>
 
 # Halo! Saya Ratno Imam Oktriyanto
 Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
