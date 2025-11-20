@@ -4,7 +4,7 @@
 Back-end Developer | Java Spring Boot, GO, PHP
     
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/211756209-411a5f6e-f1b4-4b91-9f92-2d4f7dc4e109.gif" alt="Pikachu Coding" width="300" height="200"/>
+  <img src="https://user-images.githubusercontent.com/64516752/120288219-c09e3e00-c276-11eb-987d-8152e93d846b.gif" alt="Pikachu Coding" width="300" height="200"/>
 </p>
 
 ---
@@ -39,7 +39,7 @@ Back-end Developer | Java Spring Boot, GO, PHP
 
 ---
 
-<h2>🐍 Aktivitas Kontribusi Saya</h2>
+<h2>Aktivitas Kontribusi Saya</h2>
 <img src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg" alt="GitHub Snake" />
 <br/>
 <br/>
