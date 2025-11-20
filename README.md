@@ -5,7 +5,7 @@
 </div>
 
 # Halo! Saya Ratno Imam Oktriyanto
- [![Role](https://img.shields.io/badge/Back--end%20Developer-0077B6?style=for-the-badge&logo=codecademy&logoColor=white)](https://github.com/riok12)
+ [![Role](https://img.shields.io/badge/Back--end%20Developer-1F78D1?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/riok12)
 
 ---
 
