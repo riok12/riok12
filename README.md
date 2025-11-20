@@ -7,7 +7,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
     
 ---
 
-## 📊 Statistik GitHub Saya
+## Statistik GitHub Saya
 
 [![riok12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riok12&show_icons=true&theme=dark&line_height=27&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riok12&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,7 +15,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ---
 
-## 🛠️ Keahlian & Teknologi
+## Keahlian & Teknologi
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,go,php,html,css,js,mysql,docker,kubernetes" />
@@ -23,7 +23,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ---
 
-## 🌐 Hubungi Saya
+## Hubungi Saya
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/LINK_ANDA)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimamoktriyanto@gmail.com)
