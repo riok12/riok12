@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/64516752/120288219-c09e3e00-c276-11eb-987d-8152e93d846b.gif" alt="Pikachu Coding" width="600"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdlYndyNHd6NWhzNHM3OHM1aG53bW8xY2NlOHZ0OGx0b3J4cWw0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kFADsE00fL9rG492n4/giphy.gif" alt="Pikachu Coding" width="600"/>
 
 # Halo! Saya Ratno Imam Oktriyanto
 Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
@@ -25,7 +25,7 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ## Hubungi Saya
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/LINK_ANDA)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rimamokt_?igsh=MjFsaHpzOHRjaGl0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimamoktriyanto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-imam-oktriyanto-3ab65a295/)
 
