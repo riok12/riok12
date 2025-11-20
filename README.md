@@ -6,7 +6,7 @@
 </div>
 
 # Halo! Saya Ratno Imam Oktriyanto
-Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
+## Back-end Developer
 
 ---
 
