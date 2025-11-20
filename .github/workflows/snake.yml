@@ -2,28 +2,23 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # run every 24 hours
+    - cron: "0 0 * * *" # Jalankan setiap 24 jam
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
+      - uses: Platane/snk@v3 # Menggunakan versi v3 yang lebih stabil
         with:
           github_user_name: riok12 
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push Snake GIF
-        uses: crazy-max/ghaction-github-pages@v2
+          outputs: dist/github-snake.svg
+          
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: output # Cabang tempat file SVG disimpan
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
