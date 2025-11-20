@@ -2,8 +2,7 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 <img src="https://i.pinimg.com/originals/aa/fe/63/aafe6306f25e815538e94d5f4f42b0a6.gif" alt="Pikachu Coding" width="200" height="auto"/>
-  <img src="https://i.pinimg.com/originals/4b/80/c0/4b80c01ccd0042f9b397924752a79661.gif" alt="Secondary GIF 1" width="200" height="auto"/>
-  <img src="https://media1.tenor.com/m/N5tHfrs3NFsAAAAC/charizard-dance.gif" alt="Secondary GIF 2" width="200" height="auto"/>
+  <img src="https://i.pinimg.com/originals/81/13/79/811379a19dbc300e4ef19f851fd8ca05.gif" alt="Secondary GIF 1" width="200" height="auto"/>
 </div>
 
 # Halo! Saya Ratno Imam Oktriyanto
