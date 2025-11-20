@@ -29,4 +29,12 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimamoktriyanto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-imam-oktriyanto-3ab65a295/)
 
+---
+
+<h2> Aktivitas Kontribusi Saya</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riok12/output/main/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg">
+</picture>
+
 </div>
