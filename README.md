@@ -1,7 +1,7 @@
 <div align="center">
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://i.pinimg.com/originals/aa/fe/63/aafe6306f25e815538e94d5f4f42b0a6.gif" alt="Pikachu Coding" width="400" height="auto"/>
+<img src="https://i.pinimg.com/originals/aa/fe/63/aafe6306f25e815538e94d5f4f42b0a6.gif" alt="Pikachu Coding" width="300" height="auto"/>
 </div>
 
 # Halo! Saya Ratno Imam Oktriyanto
