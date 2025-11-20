@@ -1,7 +1,7 @@
 <div align="center">
 
 # Halo! Saya Ratno Imam Oktriyanto
-Back-end Developer | Java Spring Boot, GO, PHP
+Back-end Developer | Java Spring Boot, GO, PHP, Java Script, Node.js
     
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64516752/120288219-c09e3e00-c276-11eb-987d-8152e93d846b.gif" alt="Pikachu Coding" width="300" height="200"/>
