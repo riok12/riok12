@@ -8,10 +8,17 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 ---
 
 ## Statistik GitHub Saya
-
-[![riok12's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riok12&show_icons=true&theme=dark&line_height=27&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riok12&layout=compact&theme=dark&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riok12&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riok12&show_icons=true&theme=dark&line_height=27&hide_title=true" alt="riok12's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riok12&layout=compact&theme=dark&hide_title=true" alt="Top Langs" />
+  </a>
+</div>
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riok12&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
 
 ---
 
@@ -25,16 +32,17 @@ Back-end Developer | Java Spring Boot, GO, PHP, JavaScript, Node.js
 
 ## Hubungi Saya
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/LINK_ANDA)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimamoktriyanto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-imam-oktriyanto-3ab65a295/)
+<p align="center">
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/LINK_ANDA)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rimamoktriyanto@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-imam-oktriyanto-3ab65a295/)
+</p>
 
 ---
 
 <h2> Aktivitas Kontribusi Saya</h2>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riok12/output/main/github-snake-dark.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg" alt="github-snake" />
+</div>
 
 </div>
