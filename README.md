@@ -1,8 +1,7 @@
 <div align="center">
 
 # Halo! Saya Ratno Imam Oktriyanto
-Back-end Developer | Java Spring Boot, GO, PHP
-    
+Back-end Developer | Java Spring Boot, GO, PHP, Java Script, Node.js
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64516752/120288219-c09e3e00-c276-11eb-987d-8152e93d846b.gif" alt="Pikachu Coding" width="300" height="200"/>
 </p>
@@ -22,7 +21,7 @@ Back-end Developer | Java Spring Boot, GO, PHP
 
 ---
 
-## Keahlian & Teknologi
+## 🛠️ Keahlian & Teknologi
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,spring,go,php,html,css,js,mysql,docker,kubernetes" />
@@ -39,9 +38,10 @@ Back-end Developer | Java Spring Boot, GO, PHP
 
 ---
 
-<h2>Aktivitas Kontribusi Saya</h2>
-<img src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg" alt="GitHub Snake" />
-<br/>
-<br/>
+<h2>🐍 Aktivitas Kontribusi Saya</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riok12/output/main/github-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/riok12/output/main/github-snake.svg">
+</picture>
 
 </div>
