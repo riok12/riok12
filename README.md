@@ -3,9 +3,12 @@
 # Halo! Saya Ratno Imam Oktriyanto
 Back-end Developer | Java Spring Boot, GO, PHP, Java Script, Node.js
     
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/64516752/120288219-c09e3e00-c276-11eb-987d-8152e93d846b.gif" alt="Pikachu Coding" width="300" height="200"/>
-</p>
+<video width="720" height="404" controls>
+  <source src="https://v1.pinimg.com/videos/mc/720p/f8/c1/24/f8c124c41c3adf10267c8aa7691e57ca.mp4"
+          type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 
